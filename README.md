@@ -105,8 +105,9 @@ Insurance companies generate large amounts of policy and claims data. This dashb
 
 ## 📷 Dashboard Preview
 
-![Insurance Claims Performance Dashboard](Dashboard_Screenshot_1.png)
-![Insurance Claims Performance Dashboard](Dashboard_Screenshot_2.png)
+![Dashboard](Dashboard_screenshot_1.png)
+
+![Dashboard](Dashboard_screenshot_2.png)
 
 ---
 
